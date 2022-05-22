@@ -1,0 +1,17 @@
+D:\proyect2022\C-SHARP\appFactura\appFactura\bin\Debug\net6.0-windows\appFactura.exe
+D:\proyect2022\C-SHARP\appFactura\appFactura\bin\Debug\net6.0-windows\appFactura.deps.json
+D:\proyect2022\C-SHARP\appFactura\appFactura\bin\Debug\net6.0-windows\appFactura.runtimeconfig.json
+D:\proyect2022\C-SHARP\appFactura\appFactura\bin\Debug\net6.0-windows\appFactura.dll
+D:\proyect2022\C-SHARP\appFactura\appFactura\bin\Debug\net6.0-windows\appFactura.pdb
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.csproj.AssemblyReference.cache
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.Form1.resources
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.csproj.GenerateResource.cache
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.AssemblyInfoInputs.cache
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.AssemblyInfo.cs
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.csproj.CoreCompileInputs.cache
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.dll
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\refint\appFactura.dll
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.pdb
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\appFactura.genruntimeconfig.cache
+D:\proyect2022\C-SHARP\appFactura\appFactura\obj\Debug\net6.0-windows\ref\appFactura.dll
